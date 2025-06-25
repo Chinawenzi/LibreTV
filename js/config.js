@@ -110,6 +110,10 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
+    wenzi: {
+        api: 'https://wg.140537.xyz/api.php/provide/vod',
+        name: '蚊子影视'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
